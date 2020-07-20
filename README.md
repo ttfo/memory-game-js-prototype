@@ -1,5 +1,13 @@
 # Memory Game Project
 
+## NOTE
+
+This is a work done in JavaScript to emulate a memory game in browser. I have completed this work as part of the UDACITY NANODEGREE IN PROGRAMMING.
+A starter package was provided by UDACITY, but all JS code has been developed indipendently. 
+
+-----------------------------------------------------------------------------------------------------------------
+ORIGINAL CONTENT IN THE STARTER PACKAGE
+
 ## Table of Contents
 
 * [Instructions](#instructions)
